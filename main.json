@@ -175,7 +175,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"<lobby>\/generic-tech.json#start_feminist-hackers"
+                 "value":"{<lobby>\/generic-tech.json#start_feminist-hackers}"
                 }],
          "type":"tilelayer",
          "visible":true,
